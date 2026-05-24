@@ -3,12 +3,18 @@
     {
       "ip": "192.168.1.1",
       "username": "admin",
-      "password": "replace_me"
+      "password": "replace_me",
+      "admin_password": "replace_me_if_needed",
+      "key_filename": "",
+      "port": 22
     },
     {
       "ip": "192.168.2.1",
       "username": "admin",
-      "password": "replace_me"
+      "password": "",
+      "admin_password": "",
+      "key_filename": "C:/path/to/private_key",
+      "port": 22
     }
   ]
 }

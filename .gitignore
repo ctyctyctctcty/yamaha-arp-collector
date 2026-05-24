@@ -5,3 +5,4 @@ __pycache__/
 
 routers.local.json
 devices_usage.json
+arp_collector.log
